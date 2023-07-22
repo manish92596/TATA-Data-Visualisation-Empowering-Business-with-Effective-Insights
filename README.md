@@ -45,7 +45,7 @@ Create a set of four questions that you anticipate each business leader will ask
 
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 ### Click here for the link
-
+    https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/master/Task%201%20Framing%20The%20Business%20Scenario/Task%201%20Framing%20The%20Business%20Scenario.docx
 
 </br>
 
@@ -65,6 +65,10 @@ In this task, you will be required to read the questions carefully and understan
 You will be provided resources on how to select visuals based on the different scenarios, these are available in the resources section. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
 
 To complete this task, answer the multiple-choice quiz. Start the quiz by clicking 'Click here to start the task' in section 5 below. Please note there are 5 multiple choice questions to complete in this task. Please be patient as each question loads.
+
+### Click here for the link
+    https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/master/Task%202%20Choosing%20The%20Right%20Visuals/Task%202%20Choosing%20The%20Right%20Visuals.docx
+
 
 </br>
 
@@ -99,20 +103,44 @@ Should you get stuck, please reference the Visuals Hints document in the resourc
 
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
 
+![3 1](https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/c6f45daa-8965-42c1-b5cb-e02748e124f0)
+
+
+
+
+
+</br>
+
 ## Question 2
 
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
+
+![3 2](https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/b177efb9-c500-4722-8b16-ffaf228d320c)
+
+
+</br>
 
 ## Question 3
 
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
 
+![3 3](https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/f8839739-17db-4805-bfac-baada02ed4c1)
+
+
+</br>
+
 ## Question 4
 
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
+![3 4](https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/79757189-c36e-4988-b1ee-2968cd2e0846)
+
+
+
 
 ### Click here for the link
+
+    https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/master/Task%203%20-%20Creating%20Effective%20Visuals/Tata%20visuals.pbix
 
 </br>
 
@@ -138,6 +166,9 @@ Your video should be approximately 5 minutes in length. You can record your vide
 Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning.
 
 ### Click here for the link
+
+    https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/tree/master/Task%204%20-%20Communicating%20Insights%20and%20Analysis
+
 
 </br>
 
