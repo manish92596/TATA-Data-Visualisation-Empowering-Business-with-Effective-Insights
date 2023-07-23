@@ -108,6 +108,11 @@ The CEO of the retail store is interested to view the time series of the revenue
 
 
 
+https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/57486e9f-8b72-4c75-80bc-a99d433dad9f
+
+
+
+
 
 </br>
 
@@ -116,6 +121,12 @@ The CEO of the retail store is interested to view the time series of the revenue
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
 
 ![3 2](https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/b177efb9-c500-4722-8b16-ffaf228d320c)
+
+
+
+https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/56c75035-28e4-4a91-9b22-44805996716b
+
+
 
 
 </br>
@@ -127,6 +138,12 @@ The CMO of the online retail store wants to view the information on the top 10 c
 ![3 3](https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/f8839739-17db-4805-bfac-baada02ed4c1)
 
 
+
+https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/3f2cb440-9a25-4b40-b4a5-5a154f31e281
+
+
+
+
 </br>
 
 ## Question 4
@@ -134,6 +151,12 @@ The CMO of the online retail store wants to view the information on the top 10 c
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
 ![3 4](https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/79757189-c36e-4988-b1ee-2968cd2e0846)
+
+
+
+
+https://github.com/manish92596/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/assets/98229122/08244054-3a24-4c23-af82-6545fd127f9f
+
 
 
 
